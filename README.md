@@ -4,7 +4,7 @@
 # NIM : 312210409
 # KELAS : TI.22.A.4
 # LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
-Your Link Here
+https://youtu.be/tupmnCvajLs
 
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
